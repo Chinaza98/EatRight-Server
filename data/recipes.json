@@ -1,0 +1,84 @@
+[
+  {
+    "id": "0001",
+    "photo": "../../src/assets/images/Chicken-Pot-Pie.jpeg",
+    "restriction": "Gluten-Free",
+    "name": "Chicken Pot Pie",
+    "step": [
+      {
+        "stepNumber": 1,
+        "description": "Heat oven to 350°F. In 3-quart saucepan, melt butter over medium heat. Add onion; cook, stirring frequently, until tender. Stir in vegetables, chicken, chicken broth, salt and thyme; heat to boiling. In small bowl, mix 3/4 cup milk and the cornstarch with wire whisk until smooth; stir into chicken mixture. Heat just to boiling. Pour into ungreased 2-quart casserole."
+      },
+
+      {
+        "stepNumber": 2,
+        "description": "In a small bowl, stir all topping ingredients except parsley with a fork until blended. Drop topping mixture by small spoonfuls over chicken mixture. Sprinkle with parsley."
+      },
+
+      {
+        "stepNumber": 3,
+        "description": "Bake 25 to 30 minutes or until tooth pick inserted in center of topping comes out clean."
+      }
+    ]
+  },
+  {
+    "id": "0002",
+    "photo": "../../src/assets/images/Sriracha-Shrimp-Rice.jpeg",
+    "restriction": "Gluten-Free",
+    "name": "Sriracha Shrimp Fried Rice",
+    "step": [
+      {
+        "stepNumber": 1,
+        "description": "Heat 10-inch nonstick skillet over medium-high heat. Add 1 teaspoon oil, and heat until shimmering. Add shrimp; cook 2 minutes without moving. Add Sriracha sauce, and stir. Cook 1 minute longer; transfer shrimp with slotted spoon to small bowl, and cover with foil."
+      },
+
+      {
+        "stepNumber": 2,
+        "description": "Add remaining 1 teaspoon oil, the bell pepper, peas and whites of onions to skillet, and cook 2 to 3 minutes or until softened, stirring constantly."
+      },
+
+      {
+        "stepNumber": 3,
+        "description": "Add gingerroot and garlic; cook and stir about 30 seconds longer or until fragrant."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Add soy sauce and brown sugar; cook 1 minute longer."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Add rice; cook about 1 minute or until broken up and warmed."
+      },
+      {
+        "stepNumber": 6,
+        "description": "Return shrimp to pan; cook 1 minute to combine flavors. Stir in lime juice. Top with onion greens and toasted sesame seed."
+      }
+    ]
+  },
+  {
+    "id": "0003",
+    "photo": "../../src/assets/images/Grilled-Pork-Kabobs.jpeg",
+    "restriction": "Gluten-Free",
+    "name": "Grilled Pork and Sweet Potato Kabobs",
+    "step": [
+      {
+        "stepNumber": 1,
+        "description": "Heat gas or charcoal grill. In 1-quart saucepan, heat marmalade, rosemary and salt to boiling, stirring frequently. Remove from heat; set aside."
+      },
+
+      {
+        "stepNumber": 2,
+        "description": "In 1-quart microwavable bowl, place sweet potato pieces and water. Cover loosely with microwavable paper towel. Microwave on High 2 to 3 minutes, stirring once, just until potatoes are tender (do not overcook). Drain sweet potatoes; rinse with cold water."
+      },
+
+      {
+        "stepNumber": 3,
+        "description": "On each of four 10- to 12-inch metal skewers, carefully thread pork, sweet potatoes and zucchini (with cut side facing out) alternately, leaving 1/4-inch space between each piece."
+      },
+      {
+        "stepNumber": 4,
+        "description": "On each of four 10- to 12-inch metal skewers, carefully thread pork, sweet potatoes and zucchini (with cut side facing out) alternately, leaving 1/4-inch space between each piece."
+      }
+    ]
+  }
+]
