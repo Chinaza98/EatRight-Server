@@ -23,14 +23,16 @@ recipesRouter.get("/", (req, res) => {
 //   //   res.send(getSingleRecipe);
 // });
 
-recipesRouter.get("/recipes/:id", (req, res) => {
+recipesRouter.get("/:recipesId", (req, res) => {
   //   console.log(req.params);
-  const recipeId = req.params.id;
+  console.log("Request parameters:", req.params);
+
   const data = fs.readFileSync("./data/recipes.json");
   const recipesInfo = JSON.parse(data);
-  const getSingleRecipe = recipesInfo.find((recipes) => {
-    return recipes.id === recipeId;
-  });
+
+  const recipeId = req.params.recipesId;
+
+  const getSingleRecipe = recipesInfo.find((recipe) => recipe.id === recipeId);
   res.send(getSingleRecipe);
 });
 export default recipesRouter;
