@@ -80,5 +80,181 @@
         "description": "On each of four 10- to 12-inch metal skewers, carefully thread pork, sweet potatoes and zucchini (with cut side facing out) alternately, leaving 1/4-inch space between each piece."
       }
     ]
+  },
+  {
+    "id": "0004",
+    "photo": "../../src/assets/images/Creamy-Garlic-Spinach.jpeg",
+    "restriction": "Vegan",
+    "name": "Creamy Garlic Spinach",
+    "step": [
+      {
+        "stepNumber": 1,
+        "description": "In a 4-quart Dutch oven or saucepan, heat coconut oil over medium heat. Cook onion and bell pepper in oil, stirring frequently, until tender, 6 to 7 minutes. Add garlic, salt and red pepper flakes; cook and stir 1 minute."
+      },
+
+      {
+        "stepNumber": 2,
+        "description": "IGradually add spinach. Cook, stirring, just until spinach is wilted. Stir in coconut milk; cook just until heated. Serve with lemon wedges."
+      }
+    ]
+  },
+  {
+    "id": "0005",
+    "photo": "../../src/assets/images/Carribean-Beans-Rice.jpeg",
+    "restriction": "Vegan",
+    "name": "Carribean Black Beans with Rice",
+    "step": [
+      {
+        "stepNumber": 1,
+        "description": "In 2-quart saucepan, heat water and beans to boiling. Boil uncovered 2 minutes; reduce heat. Cover and simmer about 45 minutes, stirring occasionally, until beans are tender; drain."
+      },
+
+      {
+        "stepNumber": 2,
+        "description": "In 10-inch skillet, heat oil over medium heat. Cook remaining ingredients except rice in oil about 5 minutes, stirring occasionally, until bell pepper is crisp-tender. Stir in beans. Cook about 5 minutes or until hot. Serve with rice."
+      }
+    ]
+  },
+  {
+    "id": "0006",
+    "photo": "../../src/assets/images/Chicken-Chow-Mein.jpeg",
+    "restriction": "Keto",
+    "name": "Chicken Chow Mein",
+    "step": [
+      {
+        "stepNumber": 1,
+        "description": "Heat 1 tbsp peanut oil in a large wok over high heat. Stir-fry half the chicken for 2-3 minutes or until golden. Transfer to a plate. Repeat with remaining chicken."
+      },
+
+      {
+        "stepNumber": 2,
+        "description": "Heat the remaining tbsp peanut oil in the wok. Stir-fry the broccoli, garlic and chilli for 2 minutes or until tender crisp. Add the cabbage and zucchini noodles. Stir-fry for 1 minute or until just tender."
+      },
+
+      {
+        "stepNumber": 3,
+        "description": "Return the chicken to the wok along with the bean sprouts, cashews, soy sauce and sesame oil. Stir-fry for 1 minute or until combined. Serve sprinkled with coriander and extra chilli."
+      }
+    ]
+  },
+  {
+    "id": "0007",
+    "photo": "../../src/assets/images/Satay-Chicken.jpeg",
+    "restriction": "Keto",
+    "name": "Satay Chicken",
+    "step": [
+      {
+        "stepNumber": 1,
+        "description": "Combine 1 tablespoon oil, 1 garlic clove, 1/2 teaspoon curry powder and the ginger in a shallow glass or ceramic dish. Add the chicken and turn to coat. Cover and place in the fridge for at least one hour to marinate."
+      },
+
+      {
+        "stepNumber": 2,
+        "description": "Heat the remaining oil in a small saucepan over medium heat. Cook the onion, stirring, for 3 minutes or until softened. Add the chilli and the remaining garlic and curry powder and cook, stirring, for 1 minute or until aromatic."
+      },
+
+      {
+        "stepNumber": 3,
+        "description": "Stir in the peanut butter, coconut milk and soy sauce. Simmer, stirring, for 2-3 minutes or until thickened slightly. Reserve 1 teaspoon chopped peanuts for serving. Stir the remaining peanuts and the lime juice into the sauce. Set aside, covered to keep warm."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Meanwhile, use a spiralizer to cut the zucchini into long noodles or cut the zucchini lengthwise with a vegetable peeler then cut into long strips."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Heat a chargrill pan or barbecue over medium-high heat. Cook the chicken for 3-4 minutes each side or until lightly charred and cooked through. Transfer to a plate and set aside to rest for 5 minutes before thickly slicing."
+      },
+      {
+        "stepNumber": 6,
+        "description": "Divide the zucchini noodles among bowls. Top with chicken, cucumber and tomatoes then drizzle with the warm satay sauce."
+      }
+    ]
+  },
+  {
+    "id": "0008",
+    "photo": "../../src/assets/images/Barbecued-Chicken-Kale.jpeg",
+    "restriction": "Diabetes-Diet",
+    "name": "Barbecued Lamb with Warm Barley and Kale Salad",
+    "step": [
+      {
+        "stepNumber": 1,
+        "description": "Combine vinegar, garlic and lemon rind in a shallow glass or ceramic dish. Add lamb. Turn to coat. Cover. Refrigerate for 1 hour to allow flavours to develop."
+      },
+
+      {
+        "stepNumber": 2,
+        "description": "Place 1 litre of water in a saucepan. Add barley. Cover. Bring to the boil over high heat. Reduce heat to low. Simmer for 35 minutes or until tender. Drain. Cover."
+      },
+
+      {
+        "stepNumber": 3,
+        "description": "Meanwhile, remove and discard stems from kale. Roughly shred leaves. Heat oil in a frying pan over medium heat. Add onion. Cook, stirring, for 10 minutes or until very soft. Add pine nuts. Cook, stirring, for 2 minutes or until pine nuts are lightly toasted."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Add kale leaves. Cook, stirring occasionally, for 5 minutes or until kale is just wilted. Remove from heat. Add tomato. Cover. Set aside for 5 minutes. Add barley, sultanas, lemon juice and parsley. Season well with salt and pepper. Toss well to combine. Cover to keep warm."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Heat a chargrill pan over medium-high heat. Cook lamb for 2 to 3 minutes each side, for medium, or until cooked to your liking. Transfer to a plate. Cover loosely with foil. Stand for 3 minutes to rest. Serve lamb with barley salad, drizzled with oil, and lemon wedges."
+      }
+    ]
+  },
+  {
+    "id": "0009",
+    "photo": "../../src/assets/images/Garlic-Salmon.jpeg",
+    "restriction": "Diabetes-Diet",
+    "name": "Baked Garlic Salmon with Freekeh",
+    "step": [
+      {
+        "stepNumber": 1,
+        "description": "Combine cumin, 1/2 the garlic and 1 tablespoon oil in a bowl. Season with pepper. Add salmon. Turn to coat. Refrigerate for 1 hour, if time permits."
+      },
+
+      {
+        "stepNumber": 2,
+        "description": "Preheat oven to 200C/180C fan-forced."
+      },
+
+      {
+        "stepNumber": 3,
+        "description": "Heat remaining oil in a 6cm-deep, 20cm x 30cm flameproof roasting pan over medium heat. Add onion. Cook, stirring, for 5 minutes or until softened. Add mixed spice, ground coriander, cardamom and remaining garlic. Cook, stirring, for 1 minute or until fragrant."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Add freekeh. Cook, stirring, for 1 minute. Add tomato paste. Stir to combine. Add crushed tomatoes and 1 litre water. Cover. Bring to a simmer. Transfer to oven. Bake for 25 minutes or until freekeh is almost cooked."
+      },
+      {
+        "stepNumber": 5,
+        "description": "Nestle salmon into freekeh mixture. Bake for a further 10 to 15 minutes or until freekeh is tender and salmon is just cooked through. Stir lettuce into freekeh mixture around the salmon. Top salmon with yoghurt and season with pepper. Serve with extra oil and lemon wedges."
+      }
+    ]
+  },
+  {
+    "id": "0010",
+    "photo": "../../src/assets/images/Dairy-Free-Donuts.jpeg",
+    "restriction": "Dairy-Free",
+    "name": "Dairy Free Donuts",
+    "step": [
+      {
+        "stepNumber": 1,
+        "description": "Preheat oven to 220C/200C fan-forced. Grease a six-hole doughnut pan."
+      },
+
+      {
+        "stepNumber": 2,
+        "description": "Combine flour, xanthan gum, baking powder, salt, half the sugar and half the cinnamon in a large bowl. Add the egg, vanilla, oil, almond milk and vinegar. Stir to combine. Spoon or pipe batter into prepared pan holes, keeping batter clear from donut hole and filling about two-thirds full."
+      },
+
+      {
+        "stepNumber": 3,
+        "description": "Bake for 10-12 minutes or until a skewer inserted into one doughnut comes out clean. Set aside for 5 minutes to cool slightly before transferring to a wire rack."
+      },
+      {
+        "stepNumber": 4,
+        "description": "Combine remaining sugar and cinnamon in a bowl. Dip doughnuts, one at a time, in cinnamon sugar to coat. Serve."
+      }
+    ]
   }
 ]
